@@ -24,7 +24,7 @@
 
    1. Clone the repository:
       ```
-      [git clone https://github.com/Namohp/React-gameApp1.git
+      git clone https://github.com/Namohp/React-gameApp1.git
       ```
       
    2. Navigate to the project directory:
@@ -52,7 +52,7 @@
    ## Usage
    - Press the "Start Timer" button to begin the countdown.
    - Click the "Click Here" button as many times as possible before time runs out.
-   - Your score will be added to the history box on the right side.
+   - Your score will be added to the history box on the right side in descending order.
    - Toggle the dark/light mode using the button in the top right corner.
    - Use the "Reset" button to clear the current score and start over.
    
